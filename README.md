@@ -22,7 +22,7 @@ Tm = 81.5 + 0.41(%GC) - 675/N - (% mismatch)
 - Enter the number of mismatched nucleotides
 - Final Tm value calculated and displayed based on selected parameters
 
-## Author
+### Author
 
 Created by Rümeysa Aksu
 MSc in Bioinformatics and Systems Biology
