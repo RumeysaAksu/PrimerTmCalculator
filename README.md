@@ -24,7 +24,6 @@ Tm = 81.5 + 0.41(%GC) - 675/N - (% mismatch)
 
 ### Author
 
-Created by Rümeysa Aksu
-MSc in Bioinformatics and Systems Biology
+Created by Rümeysa Aksu MSc in Bioinformatics and Systems Biology
 
 
