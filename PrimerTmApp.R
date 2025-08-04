@@ -1,5 +1,4 @@
-# Install required packages in R:
-
+# Install required packages:
 install.packages("shiny")
 install.packages("shinythemes")
 if (!requireNamespace("BiocManager", quietly = TRUE))
