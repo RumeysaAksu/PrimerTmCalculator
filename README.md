@@ -4,6 +4,9 @@ This is my first publicly shared project on GitHub: a simple Shiny web applicati
 
 The idea for this project emerged while I was working on a previous research project that involved designing mutagenic primers for a QuikChange mutagenesis experiment. To simplify the process of calculating GC content and Tm for the primers I designed, I initially wrote a few basic R scripts. Later, I decided to turn those scripts into a user-friendly Shiny web application. This tool now supports both standard and mutagenic primers, offering a flexible interface for Tm calculation that accounts for the application of mutagenesis.
 
+You can try the app here:  
+👉 [PrimerTmApp on shinyapps.io](https://rumeysaaksu.shinyapps.io/PrimerTmCalculator/)
+
 ## Tm Formula Used
 
 ```
