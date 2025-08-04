@@ -1,3 +1,11 @@
+# Install required packages in R:
+
+install.packages("shiny")
+install.packages("shinythemes")
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("Biostrings")
+
 library(shiny)
 library(Biostrings)
 library(shinythemes)
